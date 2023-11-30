@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=02cfac8e-64cf-4457-8d89-76a4320df942;IngestionEndpoint=https://westus2-2.in.applicationinsights.azure.com/;LiveEndpoint=https://westus2.livediagnostics.monitor.azure.com/",
+    "AzureWebJobs.WarmUp.Disabled": "1",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurelab2storage;AccountKey=klcH1cvu5P0+h6dsmr6kpNjYCdUa0TodABqcB0dKU1NzJ9yYGtnbIZkAtTLH1Z0i/u1VY/uwdYrN+AStUBgG+g==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=azurelab2storage;AccountKey=klcH1cvu5P0+h6dsmr6kpNjYCdUa0TodABqcB0dKU1NzJ9yYGtnbIZkAtTLH1Z0i/u1VY/uwdYrN+AStUBgG+g==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "neighbor-app-dichlb895c"
+  },
+  "ConnectionStrings": {},
+
+  "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurelab2storage;AccountKey=klcH1cvu5P0+h6dsmr6kpNjYCdUa0TodABqcB0dKU1NzJ9yYGtnbIZkAtTLH1Z0i/u1VY/uwdYrN+AStUBgG+g==;EndpointSuffix=core.windows.net"
+}
